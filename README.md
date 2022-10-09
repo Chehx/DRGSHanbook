@@ -26,7 +26,7 @@ link: https://pytorch.org/get-started/previous-versions/
 if your gpu is old, something error may occur. you need to find the corresponding version of pytorch
 #### 4. check if the cuda could be used
 open your terminal, type 'python' to get into python, then type like this:
-![avatar](pics\terminal.png)
+![image](pics\terminal.png)
 the output should be true
 
 ## some hints about DR grading
@@ -35,7 +35,7 @@ link: https://zh.d2l.ai/chapter_convolutional-modern/resnet.html
 the d2l library contains some basic codes about the training process, how to compute the accuracy, how to visualize the output... you can check the codes for reference
 #### 2. install the tensorboard and learn how to use tensorboard to visualize the output
 link: https://github.com/tensorflow/tensorboard
-![avatar](pics\tensorboard.png)
+![image](pics\tensorboard.png)
 #### 3. the framework
 1. a dataloader to load your DR dataset
 2. use parsers to imput as commands
@@ -44,4 +44,4 @@ link: https://github.com/tensorflow/tensorboard
 5. compute the accuracy and auc score
 6. visualize the output
 ### my output for reference
-![avatar](pics\output.png)
+![image](pics\output.png)
