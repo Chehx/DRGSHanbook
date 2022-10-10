@@ -52,5 +52,5 @@ link: https://github.com/tensorflow/tensorboard
 4. the training process
 5. compute the accuracy and auc score
 6. visualize the output
-### my output for reference
+### An example output for reference
 ![image](https://github.com/Chehx/DRGSHandbook/blob/main/pics/output.png)
