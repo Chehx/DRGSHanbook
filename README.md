@@ -1,4 +1,3 @@
-# DRGSHanbook
 # **DR Grading Survival Handbook**
 
 ## **DR Grading datasets preparation:**
