@@ -1,30 +1,31 @@
 # DRGSHanbook
-# **DR grading survival handbook**
+# **DR Grading Survival Handbook**
 
-## **DR datasets:**
-Messidor-2: https://www.adcis.net/en/third-party/messidor2/
-Messidor-2 labels: https://www.kaggle.com/datasets/google-brain/messidor2-dr-grades
+## **DR Grading datasets preparation:**
+Messidor-2: [data](https://www.adcis.net/en/third-party/messidor2/), [label](https://www.kaggle.com/datasets/google-brain/messidor2-dr-grades)
 
-APTOS: https://www.kaggle.com/competitions/aptos2019-blindness-detection/data
+APTOS: [data](https://www.kaggle.com/competitions/aptos2019-blindness-detection/data)
 
-IDRID: https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid
+IDRID: [data](https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid)
 
-DeepDRiD: https://github.com/deepdrdoc/DeepDRiD
+DeepDRiD: [data](https://github.com/deepdrdoc/DeepDRiD)
 
-FGADR: https://csyizhou.github.io/FGADR/
-notes: you need to write emails to apply for the download link of this dataset
+FGADR: [data](https://csyizhou.github.io/FGADR/)
 
-## papers:
-This paper 'CANet: Cross-Disease Attention Network for Joint Diabetic Retinopathy and Diabetic Macular Edema Grading' about CANet by Prof. Li Xiaomeng could be followed.
-https://ieeexplore.ieee.org/abstract/document/8892667
-This paper is about DR and DME jointly grading. You can only focus on DR grading and follow the format the baseline.py in CANet.
+Notes: you need to write emails to apply for the download link of this dataset
 
-other papers available:
-1. CABNet: Category Attention Block for Imbalanced Diabetic Retinopathy Grading
-https://ieeexplore.ieee.org/abstract/document/9195035
+## Papers:
+This paper, '[CANet: Cross-Disease Attention Network for Joint Diabetic Retinopathy and Diabetic Macular Edema Grading](https://ieeexplore.ieee.org/abstract/document/8892667)' could be followed.
+
+This paper is about DR and DME jointly grading. You can only focus on DR grading and follow the format of the baseline.py in CANet.
+
+Or you could follow the paper, '[Learning Robust Representation for Joint Grading of Ophthalmic Diseases via Adaptive Curriculum and Feature Disentanglement](https://arxiv.org/abs/2207.04183)'.
 
 
-## preparation:
+Other papers available:
+    1. [CABNet: Category Attention Block for Imbalanced Diabetic Retinopathy Grading](https://ieeexplore.ieee.org/abstract/document/9195035)
+
+## Preparation before training:
 To run a deep learning algorithm by GPU, there are something need to be prepared.
 #### 1. make sure you have a gpu
 #### 2. download the correct version of cuda
