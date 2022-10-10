@@ -1,9 +1,18 @@
 # DRGSHanbook
 # **DR grading survival handbook**
 
-## **DR dataset link:**
-https://hkustconnect-my.sharepoint.com/:f:/g/personal/ychengbj_connect_ust_hk/Etvtx9dSgClMoEcQZgKEwXkBBs6d6wzT0beCpXS0vT_wDQ?e=jpsaH3
-There are four datasets inside this link (Messidor-2, APTOS, IDRID, DeepDR)
+## **DR datasets:**
+Messidor-2: https://www.adcis.net/en/third-party/messidor2/
+Messidor-2 labels: https://www.kaggle.com/datasets/google-brain/messidor2-dr-grades
+
+APTOS: https://www.kaggle.com/competitions/aptos2019-blindness-detection/data
+
+IDRID: https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid
+
+DeepDRiD: https://github.com/deepdrdoc/DeepDRiD
+
+FGADR: https://csyizhou.github.io/FGADR/
+notes: you need to write emails to apply for the download link of this dataset
 
 ## papers:
 This paper 'CANet: Cross-Disease Attention Network for Joint Diabetic Retinopathy and Diabetic Macular Edema Grading' about CANet by Prof. Li Xiaomeng could be followed.
